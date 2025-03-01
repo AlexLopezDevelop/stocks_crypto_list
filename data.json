@@ -91,83 +91,83 @@
       "endpoint": "v1beta3/crypto/us/snapshots",
       "symbols": [
         {
-          "symbol": "BTC/USD",
+          "symbol": "BTC/USDT",
           "name": "Bitcoin"
         },
         {
-          "symbol": "ETH/USD",
+          "symbol": "ETH/USDT",
           "name": "Ethereum"
         },
         {
-          "symbol": "SOL/USD",
+          "symbol": "SOL/USDT",
           "name": "Solana"
         },
         {
-          "symbol": "BNB/USD",
+          "symbol": "BNB/USDT",
           "name": "Binance Coin"
         },
         {
-          "symbol": "XRP/USD",
+          "symbol": "XRP/USDT",
           "name": "Ripple"
         },
         {
-          "symbol": "ADA/USD",
+          "symbol": "ADA/USDT",
           "name": "Cardano"
         },
         {
-          "symbol": "DOGE/USD",
+          "symbol": "DOGE/USDT",
           "name": "Dogecoin"
         },
         {
-          "symbol": "DOT/USD",
+          "symbol": "DOT/USDT",
           "name": "Polkadot"
         },
         {
-          "symbol": "MATIC/USD",
+          "symbol": "MATIC/USDT",
           "name": "Polygon"
         },
         {
-          "symbol": "LINK/USD",
+          "symbol": "LINK/USDT",
           "name": "Chainlink"
         },
         {
-          "symbol": "AVAX/USD",
+          "symbol": "AVAX/USDT",
           "name": "Avalanche"
         },
         {
-          "symbol": "UNI/USD",
+          "symbol": "UNI/USDT",
           "name": "Uniswap"
         },
         {
-          "symbol": "LTC/USD",
+          "symbol": "LTC/USDT",
           "name": "Litecoin"
         },
         {
-          "symbol": "SHIB/USD",
+          "symbol": "SHIB/USDT",
           "name": "Shiba Inu"
         },
         {
-          "symbol": "ATOM/USD",
+          "symbol": "ATOM/USDT",
           "name": "Cosmos"
         },
         {
-          "symbol": "XLM/USD",
+          "symbol": "XLM/USDT",
           "name": "Stellar"
         },
         {
-          "symbol": "ALGO/USD",
+          "symbol": "ALGO/USDT",
           "name": "Algorand"
         },
         {
-          "symbol": "FIL/USD",
+          "symbol": "FIL/USDT",
           "name": "Filecoin"
         },
         {
-          "symbol": "NEAR/USD",
+          "symbol": "NEAR/USDT",
           "name": "NEAR Protocol"
         },
         {
-          "symbol": "APE/USD",
+          "symbol": "APE/USDT",
           "name": "ApeCoin"
         }
       ]
