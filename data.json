@@ -83,6 +83,326 @@
         {
           "symbol": "CRM",
           "name": "Salesforce Inc."
+        },
+        {
+          "symbol": "JNJ",
+          "name": "Johnson & Johnson"
+        },
+        {
+          "symbol": "UNH",
+          "name": "UnitedHealth Group Inc."
+        },
+        {
+          "symbol": "MA",
+          "name": "Mastercard Inc."
+        },
+        {
+          "symbol": "HD",
+          "name": "Home Depot Inc."
+        },
+        {
+          "symbol": "XOM",
+          "name": "Exxon Mobil Corporation"
+        },
+        {
+          "symbol": "CVX",
+          "name": "Chevron Corporation"
+        },
+        {
+          "symbol": "BRK.B",
+          "name": "Berkshire Hathaway Inc."
+        },
+        {
+          "symbol": "VZ",
+          "name": "Verizon Communications Inc."
+        },
+        {
+          "symbol": "T",
+          "name": "AT&T Inc."
+        },
+        {
+          "symbol": "MRK",
+          "name": "Merck & Co. Inc."
+        },
+        {
+          "symbol": "PFE",
+          "name": "Pfizer Inc."
+        },
+        {
+          "symbol": "LLY",
+          "name": "Eli Lilly and Company"
+        },
+        {
+          "symbol": "ABT",
+          "name": "Abbott Laboratories"
+        },
+        {
+          "symbol": "AMD",
+          "name": "Advanced Micro Devices Inc."
+        },
+        {
+          "symbol": "BA",
+          "name": "Boeing Company"
+        },
+        {
+          "symbol": "CAT",
+          "name": "Caterpillar Inc."
+        },
+        {
+          "symbol": "MCD",
+          "name": "McDonald's Corporation"
+        },
+        {
+          "symbol": "SBUX",
+          "name": "Starbucks Corporation"
+        },
+        {
+          "symbol": "NKE",
+          "name": "Nike Inc."
+        },
+        {
+          "symbol": "GS",
+          "name": "Goldman Sachs Group Inc."
+        },
+        {
+          "symbol": "C",
+          "name": "Citigroup Inc."
+        },
+        {
+          "symbol": "WFC",
+          "name": "Wells Fargo & Company"
+        },
+        {
+          "symbol": "MS",
+          "name": "Morgan Stanley"
+        },
+        {
+          "symbol": "AXP",
+          "name": "American Express Company"
+        },
+        {
+          "symbol": "IBM",
+          "name": "International Business Machines"
+        },
+        {
+          "symbol": "GE",
+          "name": "General Electric Company"
+        },
+        {
+          "symbol": "F",
+          "name": "Ford Motor Company"
+        },
+        {
+          "symbol": "GM",
+          "name": "General Motors Company"
+        },
+        {
+          "symbol": "TGT",
+          "name": "Target Corporation"
+        },
+        {
+          "symbol": "COST",
+          "name": "Costco Wholesale Corporation"
+        },
+        {
+          "symbol": "LMT",
+          "name": "Lockheed Martin Corporation"
+        },
+        {
+          "symbol": "RTX",
+          "name": "Raytheon Technologies Corporation"
+        },
+        {
+          "symbol": "QCOM",
+          "name": "Qualcomm Inc."
+        },
+        {
+          "symbol": "TXN",
+          "name": "Texas Instruments Inc."
+        },
+        {
+          "symbol": "BMY",
+          "name": "Bristol Myers Squibb Company"
+        },
+        {
+          "symbol": "AMGN",
+          "name": "Amgen Inc."
+        },
+        {
+          "symbol": "AVGO",
+          "name": "Broadcom Inc."
+        },
+        {
+          "symbol": "HON",
+          "name": "Honeywell International Inc."
+        },
+        {
+          "symbol": "MMM",
+          "name": "3M Company"
+        },
+        {
+          "symbol": "DE",
+          "name": "Deere & Company"
+        },
+        {
+          "symbol": "ACN",
+          "name": "Accenture plc"
+        },
+        {
+          "symbol": "ORCL",
+          "name": "Oracle Corporation"
+        },
+        {
+          "symbol": "CMCSA",
+          "name": "Comcast Corporation"
+        },
+        {
+          "symbol": "PM",
+          "name": "Philip Morris International Inc."
+        },
+        {
+          "symbol": "PEP",
+          "name": "PepsiCo Inc."
+        },
+        {
+          "symbol": "LOW",
+          "name": "Lowe's Companies Inc."
+        },
+        {
+          "symbol": "UPS",
+          "name": "United Parcel Service Inc."
+        },
+        {
+          "symbol": "FDX",
+          "name": "FedEx Corporation"
+        },
+        {
+          "symbol": "NOW",
+          "name": "ServiceNow Inc."
+        },
+        {
+          "symbol": "MU",
+          "name": "Micron Technology Inc."
+        },
+        {
+          "symbol": "ABNB",
+          "name": "Airbnb Inc."
+        },
+        {
+          "symbol": "UBER",
+          "name": "Uber Technologies Inc."
+        },
+        {
+          "symbol": "SHOP",
+          "name": "Shopify Inc."
+        },
+        {
+          "symbol": "SQ",
+          "name": "Block Inc."
+        },
+        {
+          "symbol": "ZM",
+          "name": "Zoom Video Communications Inc."
+        },
+        {
+          "symbol": "DAL",
+          "name": "Delta Air Lines Inc."
+        },
+        {
+          "symbol": "AAL",
+          "name": "American Airlines Group Inc."
+        },
+        {
+          "symbol": "CCL",
+          "name": "Carnival Corporation"
+        },
+        {
+          "symbol": "RCL",
+          "name": "Royal Caribbean Cruises Ltd."
+        },
+        {
+          "symbol": "LVS",
+          "name": "Las Vegas Sands Corp."
+        },
+        {
+          "symbol": "MAR",
+          "name": "Marriott International Inc."
+        },
+        {
+          "symbol": "HLT",
+          "name": "Hilton Worldwide Holdings Inc."
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna Inc."
+        },
+        {
+          "symbol": "REGN",
+          "name": "Regeneron Pharmaceuticals Inc."
+        },
+        {
+          "symbol": "AZN",
+          "name": "AstraZeneca PLC"
+        },
+        {
+          "symbol": "CVS",
+          "name": "CVS Health Corporation"
+        },
+        {
+          "symbol": "WBA",
+          "name": "Walgreens Boots Alliance Inc."
+        },
+        {
+          "symbol": "JCI",
+          "name": "Johnson Controls International plc"
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir Technologies Inc."
+        },
+        {
+          "symbol": "SNOW",
+          "name": "Snowflake Inc."
+        },
+        {
+          "symbol": "SPOT",
+          "name": "Spotify Technology S.A."
+        },
+        {
+          "symbol": "DOCU",
+          "name": "DocuSign Inc."
+        },
+        {
+          "symbol": "PINS",
+          "name": "Pinterest Inc."
+        },
+        {
+          "symbol": "SNAP",
+          "name": "Snap Inc."
+        },
+        {
+          "symbol": "EA",
+          "name": "Electronic Arts Inc."
+        },
+        {
+          "symbol": "HOOD",
+          "name": "Robinhood Markets Inc."
+        },
+        {
+          "symbol": "COIN",
+          "name": "Coinbase Global Inc."
+        },
+        {
+          "symbol": "U",
+          "name": "Unity Software Inc."
+        },
+        {
+          "symbol": "RBLX",
+          "name": "Roblox Corporation"
+        },
+        {
+          "symbol": "ATVI",
+          "name": "Activision Blizzard Inc."
         }
       ]
     },
@@ -91,84 +411,252 @@
       "endpoint": "v1beta3/crypto/us/snapshots",
       "symbols": [
         {
-          "symbol": "BTC/USD",
-          "name": "Bitcoin"
+          "symbol": "AAVE/USDT",
+          "name": "Aave / US Dollar"
         },
         {
-          "symbol": "ETH/USD",
-          "name": "Ethereum"
+          "symbol": "AAVE/USDC",
+          "name": "Aave / USD Coin"
         },
         {
-          "symbol": "SOL/USD",
-          "name": "Solana"
+          "symbol": "AVAX/USDT",
+          "name": "Avalanche / US Dollar"
         },
         {
-          "symbol": "BNB/USD",
-          "name": "Binance Coin"
+          "symbol": "BCH/USDC",
+          "name": "Bitcoin Cash / USD Coin"
         },
         {
-          "symbol": "XRP/USD",
-          "name": "Ripple"
+          "symbol": "LINK/BTC",
+          "name": "Chainlink / Bitcoin "
         },
         {
-          "symbol": "ADA/USD",
-          "name": "Cardano"
+          "symbol": "AVAX/USDC",
+          "name": "Avalanche / USD Coin"
         },
         {
-          "symbol": "DOGE/USD",
-          "name": "Dogecoin"
+          "symbol": "BAT/USDT",
+          "name": "Basic Attention Token / US Dollar"
         },
         {
-          "symbol": "DOT/USD",
-          "name": "Polkadot"
+          "symbol": "BAT/USDC",
+          "name": "Basic Attention Token / USD Coin"
         },
         {
-          "symbol": "MATIC/USD",
-          "name": "Polygon"
+          "symbol": "BCH/USDT",
+          "name": "Bitcoin Cash / US Dollar"
         },
         {
-          "symbol": "LINK/USD",
-          "name": "Chainlink"
+          "symbol": "BTC/USDT",
+          "name": "Bitcoin  / US Dollar"
         },
         {
-          "symbol": "AVAX/USD",
-          "name": "Avalanche"
+          "symbol": "BTC/USDC",
+          "name": "Bitcoin / USD Coin"
         },
         {
-          "symbol": "UNI/USD",
-          "name": "Uniswap"
+          "symbol": "BTC/USDT",
+          "name": "Bitcoin / USD Tether"
         },
         {
-          "symbol": "LTC/USD",
-          "name": "Litecoin"
+          "symbol": "CRV/USDT",
+          "name": "Curve / US Dollar"
         },
         {
-          "symbol": "SHIB/USD",
-          "name": "Shiba Inu"
+          "symbol": "CRV/USDC",
+          "name": "Curve / USD Coin"
         },
         {
-          "symbol": "ATOM/USD",
-          "name": "Cosmos"
+          "symbol": "DOGE/USDC",
+          "name": "Dogecoin / USD Coin"
         },
         {
-          "symbol": "XLM/USD",
-          "name": "Stellar"
+          "symbol": "DOGE/USDT",
+          "name": "Dogecoin / USD Tether"
         },
         {
-          "symbol": "ALGO/USD",
-          "name": "Algorand"
+          "symbol": "DOT/USDT",
+          "name": "Polkadot / US Dollar"
         },
         {
-          "symbol": "FIL/USD",
-          "name": "Filecoin"
+          "symbol": "DOT/USDC",
+          "name": "Polkadot / USD Coin"
         },
         {
-          "symbol": "NEAR/USD",
-          "name": "NEAR Protocol"
+          "symbol": "ETH/USDT",
+          "name": "Ethereum / US Dollar"
         },
         {
-          "symbol": "APE/USD",
-          "name": "ApeCoin"
+          "symbol": "ETH/USDC",
+          "name": "Ethereum / USD Coin"
+        },
+        {
+          "symbol": "ETH/USDT",
+          "name": "Ethereum / USD Tether"
+        },
+        {
+          "symbol": "GRT/USDT",
+          "name": "The Graph / US Dollar"
+        },
+        {
+          "symbol": "GRT/USDC",
+          "name": "The Graph / USD Coin"
+        },
+        {
+          "symbol": "LINK/USDT",
+          "name": "Chainlink / US Dollar"
+        },
+        {
+          "symbol": "LINK/USDT",
+          "name": "Chainlink / USD Tether"
+        },
+        {
+          "symbol": "PEPE/USDT",
+          "name": "Pepe / US Dollar"
+        },
+        {
+          "symbol": "LTC/BTC",
+          "name": "Litecoin / Bitcoin "
+        },
+        {
+          "symbol": "SHIB/USDT",
+          "name": "Shiba Inu / US Dollar"
+        },
+        {
+          "symbol": "SHIB/USDC",
+          "name": "Shiba Inu / USD Coin"
+        },
+        {
+          "symbol": "SHIB/USDT",
+          "name": "Shib USD Tether"
+        },
+        {
+          "symbol": "SOL/USDT",
+          "name": "Solana / US Dollar"
+        },
+        {
+          "symbol": "SOL/USDC",
+          "name": "Solana/USDT Coin"
+        },
+        {
+          "symbol": "LTC/USDT",
+          "name": "Litecoin / US Dollar"
+        },
+        {
+          "symbol": "LTC/USDC",
+          "name": "Litecoin / USD Coin"
+        },
+        {
+          "symbol": "LTC/USDT",
+          "name": "Litecoin / USD Tether"
+        },
+        {
+          "symbol": "SOL/USDT",
+          "name": "Solana / USD Tether"
+        },
+        {
+          "symbol": "MKR/USDT",
+          "name": "Maker / US Dollar"
+        },
+        {
+          "symbol": "MKR/USDC",
+          "name": "Maker / USD Coin"
+        },
+        {
+          "symbol": "SUSHI/USDT",
+          "name": "SushiSwap / US Dollar"
+        },
+        {
+          "symbol": "SUSHI/USDC",
+          "name": "SushiSwap / USD Coin"
+        },
+        {
+          "symbol": "SUSHI/USDT",
+          "name": "SushiSwap / USD Tether"
+        },
+        {
+          "symbol": "TRUMP/USDT",
+          "name": "Trump / US Dollar"
+        },
+        {
+          "symbol": "UNI/BTC",
+          "name": "Uniswap / Bitcoin"
+        },
+        {
+          "symbol": "UNI/USDC",
+          "name": "Uniswap / USD Coin"
+        },
+        {
+          "symbol": "UNI/USDT",
+          "name": "Uniswap / USD Tether"
+        },
+        {
+          "symbol": "USDT/USDT",
+          "name": "USD Tether / US Dollar"
+        },
+        {
+          "symbol": "USDT/USDC",
+          "name": "USD Tether / USD Coin"
+        },
+        {
+          "symbol": "XTZ/USDT",
+          "name": "Tezos / US Dollar"
+        },
+        {
+          "symbol": "XTZ/USDC",
+          "name": "Tezos / USD Coin"
+        },
+        {
+          "symbol": "YFI/USDT",
+          "name": "Yearn Finance / US Dollar"
+        },
+        {
+          "symbol": "YFI/USDC",
+          "name": "Yearn Finance / USD Coin"
+        },
+        {
+          "symbol": "YFI/USDT",
+          "name": "Yearn Finance / USD Tether"
+        },
+        {
+          "symbol": "BCH/BTC",
+          "name": "Bitcoin Cash / Bitcoin "
+        },
+        {
+          "symbol": "DOGE/USDT",
+          "name": "Dogecoin / US Dollar"
+        },
+        {
+          "symbol": "AAVE/USDT",
+          "name": "Aave / USD Tether"
+        },
+        {
+          "symbol": "USDC/USDT",
+          "name": "USDC/USDT pair"
+        },
+        {
+          "symbol": "AVAX/USDT",
+          "name": "Avalanche / USD Tether"
+        },
+        {
+          "symbol": "BCH/USDT",
+          "name": "Bitcoin Cash / USD Tether"
+        },
+        {
+          "symbol": "LINK/USDC",
+          "name": "Chainlink / USD Coin"
+        },
+        {
+          "symbol": "UNI/USDT",
+          "name": "Uniswap / US Dollar"
+        },
+        {
+          "symbol": "XRP/USDT",
+          "name": "Ripple / US Dollar"
+        },
+        {
+          "symbol": "ETH/BTC",
+          "name": "Ethereum / Bitcoin "
         }
       ]
     }
