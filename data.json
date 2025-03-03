@@ -427,10 +427,6 @@
           "name": "Bitcoin Cash / USD Coin"
         },
         {
-          "symbol": "LINK/BTC",
-          "name": "Chainlink / Bitcoin "
-        },
-        {
           "symbol": "AVAX/USDC",
           "name": "Avalanche / USD Coin"
         },
@@ -513,10 +509,6 @@
         {
           "symbol": "PEPE/USDT",
           "name": "Pepe / US Dollar"
-        },
-        {
-          "symbol": "LTC/BTC",
-          "name": "Litecoin / Bitcoin "
         },
         {
           "symbol": "SHIB/USDT",
@@ -617,10 +609,6 @@
         {
           "symbol": "YFI/USDT",
           "name": "Yearn Finance / USD Tether"
-        },
-        {
-          "symbol": "BCH/BTC",
-          "name": "Bitcoin Cash / Bitcoin "
         },
         {
           "symbol": "DOGE/USDT",
